@@ -1,0 +1,11 @@
+sudo crontab -e
+# This will open up your default command line editor, for me that is vim
+
+# We need to set the PATH at the top of this file to be able to find cli tools like wget
+PATH="/usr/local/bin:/usr/bin:/bin"
+
+# Enter the expression below, replacing /absolute/path/to/covid_deaths_to_pg.sh with the absolute path to your script
+* * * * * /absolute/path/to/data_to_pg.sh 2>> /absolute/path/to/data_to_pg.log
+
+# check log s
+tail -f /absolute/path/to/data_to_pg.log

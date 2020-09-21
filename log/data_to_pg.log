@@ -1,0 +1,222 @@
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+bash: /Users/ashleyshang/Desktop/datapipeline_prac/data_to_pg.sh: Operation not permitted
+./deathDB/pgdata/deaths.csv: No such file or directory
+the input device is not a TTY
+./deathDB/pgdata/deaths.csv: No such file or directory
+the input device is not a TTY
+./deathDB/pgdata/deaths.csv: No such file or directory
+the input device is not a TTY
+./deathDB/pgdata/deaths.csv: No such file or directory
+the input device is not a TTY
+--2020-09-21 15:20:01--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 1.91M 0s
+    50K .......... .......... .......... .......... .......... 25% 5.38M 0s
+   100K .......... .......... .......... .......... .......... 37% 11.1M 0s
+   150K .......... .......... .......... .......... .......... 50% 16.2M 0s
+   200K .......... .......... .......... .......... .......... 62% 7.17M 0s
+   250K .......... .......... .......... .......... .......... 75% 13.2M 0s
+   300K .......... .......... .......... .......... .......... 87% 12.5M 0s
+   350K .......... .......... .......... .......... ......... 100% 10.9M=0.06s
+
+2020-09-21 15:20:01 (6.40 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+the input device is not a TTY
+--2020-09-21 15:21:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.02M 0s
+    50K .......... .......... .......... .......... .......... 25% 7.26M 0s
+   100K .......... .......... .......... .......... .......... 37% 5.46M 0s
+   150K .......... .......... .......... .......... .......... 50% 22.3M 0s
+   200K .......... .......... .......... .......... .......... 62% 6.98M 0s
+   250K .......... .......... .......... .......... .......... 75% 11.3M 0s
+   300K .......... .......... .......... .......... .......... 87% 42.3M 0s
+   350K .......... .......... .......... .......... ......... 100% 44.3M=0.06s
+
+2020-09-21 15:21:00 (7.01 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+the input device is not a TTY
+--2020-09-21 15:22:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.14M 0s
+    50K .......... .......... .......... .......... .......... 25% 5.51M 0s
+   100K .......... .......... .......... .......... .......... 37% 9.83M 0s
+   150K .......... .......... .......... .......... .......... 50% 16.7M 0s
+   200K .......... .......... .......... .......... .......... 62% 7.92M 0s
+   250K .......... .......... .......... .......... .......... 75% 9.54M 0s
+   300K .......... .......... .......... .......... .......... 87% 12.9M 0s
+   350K .......... .......... .......... .......... ......... 100% 13.0M=0.06s
+
+2020-09-21 15:22:00 (6.68 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:23:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.36M 0s
+    50K .......... .......... .......... .......... .......... 25% 5.07M 0s
+   100K .......... .......... .......... .......... .......... 37% 9.08M 0s
+   150K .......... .......... .......... .......... .......... 50% 17.1M 0s
+   200K .......... .......... .......... .......... .......... 62% 6.78M 0s
+   250K .......... .......... .......... .......... .......... 75% 10.5M 0s
+   300K .......... .......... .......... .......... .......... 87% 9.36M 0s
+   350K .......... .......... .......... .......... ......... 100% 25.5M=0.06s
+
+2020-09-21 15:23:00 (6.78 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:24:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.17M 0s
+    50K .......... .......... .......... .......... .......... 25% 4.22M 0s
+   100K .......... .......... .......... .......... .......... 37% 8.48M 0s
+   150K .......... .......... .......... .......... .......... 50% 12.6M 0s
+   200K .......... .......... .......... .......... .......... 62% 4.91M 0s
+   250K .......... .......... .......... .......... .......... 75% 5.68M 0s
+   300K .......... .......... .......... .......... .......... 87% 40.6M 0s
+   350K .......... .......... .......... .......... ......... 100% 7.59M=0.07s
+
+2020-09-21 15:24:00 (5.59 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:25:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.19M 0s
+    50K .......... .......... .......... .......... .......... 25% 4.45M 0s
+   100K .......... .......... .......... .......... .......... 37% 14.2M 0s
+   150K .......... .......... .......... .......... .......... 50% 16.7M 0s
+   200K .......... .......... .......... .......... .......... 62% 5.84M 0s
+   250K .......... .......... .......... .......... .......... 75% 15.3M 0s
+   300K .......... .......... .......... .......... .......... 87% 16.1M 0s
+   350K .......... .......... .......... .......... ......... 100% 15.1M=0.06s
+
+2020-09-21 15:25:00 (6.79 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:26:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.07M 0s
+    50K .......... .......... .......... .......... .......... 25% 4.93M 0s
+   100K .......... .......... .......... .......... .......... 37% 8.04M 0s
+   150K .......... .......... .......... .......... .......... 50% 8.14M 0s
+   200K .......... .......... .......... .......... .......... 62% 10.9M 0s
+   250K .......... .......... .......... .......... .......... 75% 8.94M 0s
+   300K .......... .......... .......... .......... .......... 87% 19.5M 0s
+   350K .......... .......... .......... .......... ......... 100% 50.5M=0.06s
+
+2020-09-21 15:26:01 (6.61 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:27:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.18M 0s
+    50K .......... .......... .......... .......... .......... 25% 4.64M 0s
+   100K .......... .......... .......... .......... .......... 37% 14.8M 0s
+   150K .......... .......... .......... .......... .......... 50% 14.8M 0s
+   200K .......... .......... .......... .......... .......... 62% 6.35M 0s
+   250K .......... .......... .......... .......... .......... 75% 9.80M 0s
+   300K .......... .......... .......... .......... .......... 87% 18.7M 0s
+   350K .......... .......... .......... .......... ......... 100% 21.4M=0.06s
+
+2020-09-21 15:27:00 (6.84 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:28:01--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.33M 0s
+    50K .......... .......... .......... .......... .......... 25% 4.68M 0s
+   100K .......... .......... .......... .......... .......... 37% 6.33M 0s
+   150K .......... .......... .......... .......... .......... 50% 14.1M 0s
+   200K .......... .......... .......... .......... .......... 62% 9.11M 0s
+   250K .......... .......... .......... .......... .......... 75% 8.90M 0s
+   300K .......... .......... .......... .......... .......... 87% 23.0M 0s
+   350K .......... .......... .......... .......... ......... 100%  106M=0.06s
+
+2020-09-21 15:28:01 (6.96 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:29:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.14M 0s
+    50K .......... .......... .......... .......... .......... 25% 5.85M 0s
+   100K .......... .......... .......... .......... .......... 37% 9.89M 0s
+   150K .......... .......... .......... .......... .......... 50% 6.89M 0s
+   200K .......... .......... .......... .......... .......... 62% 8.21M 0s
+   250K .......... .......... .......... .......... .......... 75% 6.33M 0s
+   300K .......... .......... .......... .......... .......... 87% 14.4M 0s
+   350K .......... .......... .......... .......... ......... 100% 7.64M=0.07s
+
+2020-09-21 15:29:00 (5.86 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
+--2020-09-21 15:30:00--  https://raw.githubusercontent.com/nytimes/covid-19-data/master/excess-deaths/deaths.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.76.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408808 (399K) [text/plain]
+Saving to: ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’
+
+     0K .......... .......... .......... .......... .......... 12% 2.02M 0s
+    50K .......... .......... .......... .......... .......... 25% 4.71M 0s
+   100K .......... .......... .......... .......... .......... 37% 9.13M 0s
+   150K .......... .......... .......... .......... .......... 50% 7.76M 0s
+   200K .......... .......... .......... .......... .......... 62% 8.01M 0s
+   250K .......... .......... .......... .......... .......... 75% 9.76M 0s
+   300K .......... .......... .......... .......... .......... 87% 21.7M 0s
+   350K .......... .......... .......... .......... ......... 100% 51.6M=0.06s
+
+2020-09-21 15:30:00 (6.45 MB/s) - ‘/Users/ashleyshang/Desktop/datapipeline_prac/deathDB/pgdata/deaths.csv’ saved [408808/408808]
+
