@@ -7,10 +7,10 @@ In my case, I am using Docker.
 
 Note that in the cron log file, first i came cross some errors:
 
-- Operation not permitted
+- *Operation not permitted*
 
   - Mac OS user: grant cron full disk access
  
-- the input device is not a TTY
+- *the input device is not a TTY*
 
   - Docker user: change -it to -i
